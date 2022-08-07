@@ -1,0 +1,31 @@
+{
+  "name": "adventureandre/Lib",
+  "description": "DESC",
+  "keywords": [
+    "FSPHP",
+    "ADVFW",
+    "ANDRE LUIZ F SOUZA",
+    "SaaS",
+    "PHP",
+    "Full Stack"
+  ],
+  "homepage": "http://www.adventureandre.com.br",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "andre luiz f souza",
+      "email": "admin@adventureandre.com.br",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": "*",
+    "ext-json": "*",
+    "ext-curl": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "adventureandre\\Lib\\": "src"
+    }
+  }
+}
