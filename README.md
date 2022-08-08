@@ -61,7 +61,7 @@ Você também conta com classes para os endpoints de carteiras e assinaturas, to
 
 ## Contributing
 
-Please see [CONTRIBUTING](https://github.com/adventureandre/Lib/CONTRIBUTING.md) for details.
+Please see [CONTRIBUTING](https://github.com/adventureandre/Lib/blob/main/CONTRIBUTING.md) for details.
 
 ## Support
 
@@ -79,4 +79,4 @@ Thank you
 
 ## License
 
-The MIT License (MIT). Please see [License File](https://github.com/adventureandre/Lib/LICENSE) for more information.
+The MIT License (MIT). Please see [License File](https://github.com/adventureandre/Lib/blob/main/LICENSE) for more information.
